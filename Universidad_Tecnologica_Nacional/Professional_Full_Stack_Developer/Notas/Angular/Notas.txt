@@ -1,3 +1,4 @@
     - 18-12-2023_Lumes:
 
 AGENDA - Las clases y todo sobre la cursada está pautado en los cronogramas del curso.
+INTRASCENDENTES - Si en la instalación del proyecto tira el error git. Es porque no está instalado git.
