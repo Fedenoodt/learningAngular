@@ -5,3 +5,7 @@ INTRASCENDENTES - Si en la instalación del proyecto tira el error git. Es porqu
 TIPS - npm install reconstruye a la carpeta node_modules.
 TIPS - En el app-root se asocian los archivos HTML, y CSS este segundo, en forma de array. Por eso se instala la etiqueta.
 TIPS - Esta misma etiqueta se usa para hacer rooting entre los componentes.
+
+    - 23-12-2023_Sàbado:
+
+AGENDA - Para resolver el optativo 2 necesito volver a ver la clase de React en la que el profesor habla de la autenticaciòn.
