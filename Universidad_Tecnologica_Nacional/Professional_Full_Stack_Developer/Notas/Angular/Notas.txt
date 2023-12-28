@@ -8,4 +8,7 @@ TIPS - Esta misma etiqueta se usa para hacer rooting entre los componentes.
 
     - 23-12-2023_Sàbado:
 
-AGENDA - Para resolver el optativo 2 necesito volver a ver la clase de React en la que el profesor habla de la autenticaciòn.
+AGENDA - Para resolver el optativo 2 necesito volver a ver la clase de React en la que el profesor habla de la autenticación.
+
+    - 28-12-2023_Jueves:
+AGENDA - Lo que dije el 23, no alcanza. Tengo que esperar hasta la clase de hoy, para ver como es este routing.
