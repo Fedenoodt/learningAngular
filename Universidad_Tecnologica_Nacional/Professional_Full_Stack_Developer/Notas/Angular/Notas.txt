@@ -20,8 +20,8 @@ AGENDA - Empieza la etapa del final, y yo voy a resolver el trabajo, pautando pa
   • 1-2 ~ Filtrar cantidad de productos.
   • 1-3 ~ Ordenar, componentes, servicios, y de más, en 
           directorios, respetando convenciones.
-  • 0-4 ~ Crear módulos, para ordenar los tipos de datos..
-  • 0-5 ~ Señalar a Home, como página central.
+  • NF-4 ~ Crear módulos, para ordenar los tipos de datos..
+  • 1-5 ~ Señalar a Home, como página central.
   • 1-6 ~ Hacer ruteo de las páginas.
     A 1 ~ Crear.
     B 1 ~ Hacer NavBar.
@@ -29,8 +29,7 @@ AGENDA - Empieza la etapa del final, y yo voy a resolver el trabajo, pautando pa
     A 1 ~ Evaluar las entradas de datos.
     B 1 ~ Elaborar bloque presentacional.
   • 0-8 ~ Pasar protocolo de entrega.
-    A 0 ~ Entregar trabajo.
-    B 0 ~ Respaldar copias obsoletas en GitHub.
-    C 0 ~ Actualizar Back-up.
- ~  ~ 77.8% de trabajo completado (9) ~  ~ 
- ~  ~ 58.33% de grupo de tareas completado (12) ~  ~ 
+    A 1 ~ Entregar trabajo.
+    B 1 ~ Respaldar copias obsoletas en GitHub.
+    C NF ~ Actualizar Back-up.
+ ~  ~ 100.0% de trabajo completado (9) ~  ~ 
