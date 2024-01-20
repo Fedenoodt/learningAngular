@@ -22,11 +22,15 @@ AGENDA - Empieza la etapa del final, y yo voy a resolver el trabajo, pautando pa
           directorios, respetando convenciones.
   • 0-4 ~ Crear módulos, para ordenar los tipos de datos..
   • 0-5 ~ Señalar a Home, como página central.
-  • 0-6 ~ Hacer ruteo de las páginas.
-  • 0-7 ~ Hacer detalle de dicho producto.
-      0 ~ Evaluar las entradas de datos.
-      0 ~ Elaborar bloque presentacional.
+  • 1-6 ~ Hacer ruteo de las páginas.
+    A 1 ~ Crear.
+    B 1 ~ Hacer NavBar.
+  • 1-7 ~ Hacer detalle de dicho producto.
+    A 1 ~ Evaluar las entradas de datos.
+    B 1 ~ Elaborar bloque presentacional.
   • 0-8 ~ Pasar protocolo de entrega.
-      0 ~ Entregar trabajo.
-      0 ~ Respaldar copias obsoletas en GitHub.
-      0 ~ Actualizar Back-up.
+    A 0 ~ Entregar trabajo.
+    B 0 ~ Respaldar copias obsoletas en GitHub.
+    C 0 ~ Actualizar Back-up.
+ ~  ~ 77.8% de trabajo completado (9) ~  ~ 
+ ~  ~ 58.33% de grupo de tareas completado (12) ~  ~ 
