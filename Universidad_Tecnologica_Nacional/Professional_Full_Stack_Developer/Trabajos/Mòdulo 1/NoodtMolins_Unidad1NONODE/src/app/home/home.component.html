@@ -1,0 +1,4 @@
+<h1>¡Hola {{person}}!</h1>
+<label for="name">Ingresá tu apodo o alias</label>
+<input type="text" id="name" [(ngModel)]="person">
+<button (click)="nombre()" [disabled]="mod">Este es el mio</button>

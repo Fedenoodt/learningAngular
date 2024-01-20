@@ -1,0 +1,19 @@
+<form [formGroup]="registForm" (ngSubmit)="registro()">
+    <div>
+      <label>Email</label>
+      <input type="email" formControlName="email" />
+    </div>
+    <div *ngIf = "registForm.get('email')?.errors && registForm.get('email')?.dirty">
+      <p>El campo es obligatorio.</p>
+    </div>
+    <div>
+      <label>Contraseña</label>
+      <input type="password" formControlName="password" />
+    <button type="submit">Registrarse</button>
+  </div>
+  <div *ngIf = "registForm.get('password')?.errors && registForm.get('password')?.dirty">
+    <p *ngIf = "registForm.get('password')?.hasError('required')">El campo es obligatorio.</p>
+    <p *ngIf = "registForm.get('password')?.hasError('minlength')">El campo debe tener más de 6 caracteres.</p>
+    <p *ngIf = "registForm.get('password')?.hasError('maxlength')">El campo debe tener menos de 10 caracteres.</p>
+  </div>
+  </form>
