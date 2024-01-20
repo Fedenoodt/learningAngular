@@ -16,14 +16,17 @@ AGENDA - Lo que dije el 23, no alcanza. Tengo que esperar hasta la clase de hoy,
     - 19-01-2024_Viernes:
 AGENDA - Empieza la etapa del final, y yo voy a resolver el trabajo, pautando paso a paso lo que yo le voy a modificar.
 
-  • 0-1 ~ Acomodar proyecto.
-  • 0-2 ~ Filtrar cantidad de productos.
-  • 0-3 ~ Ordenar, componentes, servicios, y de más, en directorios, respetando convenciones.
-  • 0-4 ~ Crear módulos, para ordenar los tipos de datos.
-  • 0-5 ~ Hacer detalle de dicho producto.
+  • 1-1 ~ Acomodar proyecto.
+  • 1-2 ~ Filtrar cantidad de productos.
+  • 1-3 ~ Ordenar, componentes, servicios, y de más, en 
+          directorios, respetando convenciones.
+  • 0-4 ~ Crear módulos, para ordenar los tipos de datos..
+  • 0-5 ~ Señalar a Home, como página central.
+  • 0-6 ~ Hacer ruteo de las páginas.
+  • 0-7 ~ Hacer detalle de dicho producto.
       0 ~ Evaluar las entradas de datos.
       0 ~ Elaborar bloque presentacional.
-  • 0-6 ~ Pasar protocolo de entrega.
-      0 ~ Entreegar trabajo.
+  • 0-8 ~ Pasar protocolo de entrega.
+      0 ~ Entregar trabajo.
       0 ~ Respaldar copias obsoletas en GitHub.
       0 ~ Actualizar Back-up.
